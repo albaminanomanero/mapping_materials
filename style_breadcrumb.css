@@ -1,0 +1,12 @@
+.quarto-secondary-nav nav.quarto-page-breadcrumbs ol.breadcrumb {
+    margin-bottom: 0;
+    background-color: white;
+}
+
+.quarto-title-breadcrumbs .breadcrumb {
+    background-color: white;
+}
+.img-fluid {
+    max-width: 60%;
+    height: auto;
+}
